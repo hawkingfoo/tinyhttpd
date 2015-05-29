@@ -4,3 +4,5 @@ client.c // tinyhttpd 的客户端测试
 
 htdocs/	 // index.html
 
+tinyhttpd-0.1.0.tar.gz	// tinyhttpd 源码
+
